@@ -7613,7 +7613,7 @@
             {
                 "name": "低空乱流",
                 "descCN": "在地面时防御力+10%，<$ba.liftoff>起飞</>后攻击敌人时攻击力提升至110%",
-                "desc": "When on ground, DEF+10%. After <$ba.liftoff>Take off</>, ATK is increased to 115% when attacking enemies"
+                "desc": "When on ground, DEF+10%. After <$ba.liftoff>Take off</>, ATK is increased to 110% when attacking enemies"
             },
             {
                 "name": "低空乱流",
